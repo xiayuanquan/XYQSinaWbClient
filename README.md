@@ -7,4 +7,4 @@
 
 截图：
 
-![image](https://github.com/xiayuanquan/XYQSinaWbClient/blob/master/XYQSinaWbClient/XYQSinaWbClient/screenshots/main.png)
+![image](https://github.com/xiayuanquan/XYQSinaWbClient/blob/master/XYQSinaWbClient/screenshots/main.png)
